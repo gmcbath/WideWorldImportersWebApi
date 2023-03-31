@@ -1,5 +1,5 @@
 
-# ASP.NET Core 5 REST Web API for SQL Server Wide World Importers database
+# ASP.NET Core 6 REST Web API for SQL Server Wide World Importers database
 
 ## Table of contents
 * [General Info](#general-info)
