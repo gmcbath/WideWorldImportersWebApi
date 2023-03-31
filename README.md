@@ -33,7 +33,7 @@ For best results view with your favorite SVG program or look at raw file in brow
 
 ## Features
 Features included with this project:
-* ASP.NET Core 5 MVC
+* ASP.NET Core 6 MVC
 * Core 5 Entity Framework - synchronous and asynchronous
 * Integration Tests
 * DTOs to handle input and output requests
